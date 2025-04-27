@@ -1,0 +1,50 @@
+[11]
+🎵 Original text:
+a spiegarti che oramai non mi odio più? Come
+
+🧠 Paraphrase this text keeping the poetic meaning.
+❤️ Also label the main emotion (choose from: joy, sadness, rage, love, nostalgia).
+✍️ Format the answer as:
+Paraphrase: <your version>
+Emotion: <label>
+------------------------------------------------------------
+[12]
+🎵 Original text:
+Come quando ti spogli vado fuori di testa Ma vorrei sparire un po' Come quando ti arrabbi e strilli dalla finestra Una canzone che non so E tu sei come volevo E tu sei come veleno
+
+🧠 Paraphrase this text keeping the poetic meaning.
+❤️ Also label the main emotion (choose from: joy, sadness, rage, love, nostalgia).
+✍️ Format the answer as:
+Paraphrase: <your version>
+Emotion: <label>
+------------------------------------------------------------
+[13]
+🎵 Original text:
+filato Te lo ricordi lo zucchero filato
+
+🧠 Paraphrase this text keeping the poetic meaning.
+❤️ Also label the main emotion (choose from: joy, sadness, rage, love, nostalgia).
+✍️ Format the answer as:
+Paraphrase: <your version>
+Emotion: <label>
+------------------------------------------------------------
+[14]
+🎵 Original text:
+allora com'è, com'è, com'è Com'è che non ci siamo ancora detti
+
+🧠 Paraphrase this text keeping the poetic meaning.
+❤️ Also label the main emotion (choose from: joy, sadness, rage, love, nostalgia).
+✍️ Format the answer as:
+Paraphrase: <your version>
+Emotion: <label>
+------------------------------------------------------------
+[15]
+🎵 Original text:
+bene Ma non basterà E andare in una Spa non ci aiuterà E
+
+🧠 Paraphrase this text keeping the poetic meaning.
+❤️ Also label the main emotion (choose from: joy, sadness, rage, love, nostalgia).
+✍️ Format the answer as:
+Paraphrase: <your version>
+Emotion: <label>
+------------------------------------------------------------

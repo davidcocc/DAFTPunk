@@ -1,0 +1,50 @@
+[6]
+🎵 Original text:
+Non c'è niente di male Se non ti va più di uscire la sera Se non ti va più di uscire la sera Se non ti va più di uscire la sera Di uscire la sera Di uscire da sola con gli occhi di cera
+
+🧠 Paraphrase this text keeping the poetic meaning.
+❤️ Also label the main emotion (choose from: joy, sadness, rage, love, nostalgia).
+✍️ Format the answer as:
+Paraphrase: <your version>
+Emotion: <label>
+------------------------------------------------------------
+[7]
+🎵 Original text:
+Un sole gigante in hangover di sabato Un gatto su un tetto di un attico in centro Che miagola forte, di notte lo sento Mi fa stare sveglio Oh my God, vorrei volare via lontano Dormire dentro la tua mano
+
+🧠 Paraphrase this text keeping the poetic meaning.
+❤️ Also label the main emotion (choose from: joy, sadness, rage, love, nostalgia).
+✍️ Format the answer as:
+Paraphrase: <your version>
+Emotion: <label>
+------------------------------------------------------------
+[8]
+🎵 Original text:
+In fin dei conti sto bene In fin dei conti sto bene
+
+🧠 Paraphrase this text keeping the poetic meaning.
+❤️ Also label the main emotion (choose from: joy, sadness, rage, love, nostalgia).
+✍️ Format the answer as:
+Paraphrase: <your version>
+Emotion: <label>
+------------------------------------------------------------
+[9]
+🎵 Original text:
+Mille sogni negli occhi e un paio di occhiali rotti E una canzone da fare Così puoi sdrammatizzare Che poi è meglio di odiare, che poi è meglio di amare Settembre è un mese di merda per ricominciare Ma è tutto più bello se lo vedi da qui
+
+🧠 Paraphrase this text keeping the poetic meaning.
+❤️ Also label the main emotion (choose from: joy, sadness, rage, love, nostalgia).
+✍️ Format the answer as:
+Paraphrase: <your version>
+Emotion: <label>
+------------------------------------------------------------
+[10]
+🎵 Original text:
+che non si può dire Ad un boato dopo un'esplosione Ad un reato
+
+🧠 Paraphrase this text keeping the poetic meaning.
+❤️ Also label the main emotion (choose from: joy, sadness, rage, love, nostalgia).
+✍️ Format the answer as:
+Paraphrase: <your version>
+Emotion: <label>
+------------------------------------------------------------
