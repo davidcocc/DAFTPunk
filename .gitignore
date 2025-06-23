@@ -3,3 +3,7 @@ __pycache__/
 model/
 results/
 *.env
+.cursor/
+data/processed/
+scripts/evaluate_model.py
+scripts/plot_training_metrics.py
