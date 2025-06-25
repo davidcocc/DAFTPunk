@@ -21,7 +21,7 @@ The web interface will be available at `http://localhost:7860`
   - `process_lyrics.py` – Script for labeling lyrics with emotion using GPT
   - `train_finetuned_deberta.py` – Script for training the DeBERTa model
   - `genius_fragments_scraper.py` – Scraper for collecting and fragmenting lyrics from Genius
-- `model/deberta_sentiment_v2/` – Fine-tuned DeBERTa model
+- `model/deberta_italian_v2/` – Fine-tuned DeBERTa italian model
 - `data/`
   - `raw/lyrics_enriched.json` – Main dataset (Italian lyrics with emotion labels)
   - `processed/` – Training reports and metric plots
