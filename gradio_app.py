@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import io
 from PIL import Image
 
-SENTIMENT_MODEL_DIR = "./model/deberta_sentiment_v2/"
+SENTIMENT_MODEL_DIR = "./model/deberta_italian_v2/"
 
 SENTIMENT_LABELS = ["joy", "sadness", "rage", "love", "nostalgia", "hope", "fear"]
 EMOJIS = {
