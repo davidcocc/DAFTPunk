@@ -34,20 +34,16 @@ The web interface will be available at `http://localhost:7860`
 
 ## 📊 Model & Dataset
 
-- **Model:** DeBERTa-v3-base, fine-tuned on a custom dataset of Italian song lyrics
-- **Dataset:** ~3MB of Italian lyrics, each labeled with one of 7 emotions (labels generated via GPT-4 and manual curation)
+- **Model:** `osiria/deberta-base-italian`, fine-tuned on a custom dataset of Italian song lyrics
+- **Dataset:** ~3MB of Italian lyrics, each labeled with one of 7 emotions (labels generated via GPT-4 and manual reviewed)
 
 ## 🏆 Model Performance (DeBERTa Sentiment v2)
 
-Keep in mind that learning has been heavily limited for economical and hardware reasons.
+Please keep in mind that learning has been heavily limited for economical and hardware reasons.
 
-- **Accuracy:** 0.6458 (64.58%)
-- **F1-Score:** 0.6449
-- **Precision:** 0.6462
-- **Recall:** 0.6458
-- **Validation Loss:** 2.0233
-- **Epochs:** 8
-- **Batch size:** 8
+- **Accuracy:** 0.6767
+- **Epochs:** 10
+- **Batch size:** 16
 
 ## ⚙️ Installation & Requirements
 
